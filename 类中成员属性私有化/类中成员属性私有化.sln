@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "类中成员属性私有化", "类中成员属性私有化\类中成员属性私有化.vcxproj", "{D58E9F0E-C913-4238-BC18-2DA79B5AE862}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D58E9F0E-C913-4238-BC18-2DA79B5AE862}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D58E9F0E-C913-4238-BC18-2DA79B5AE862}.Debug|Win32.Build.0 = Debug|Win32
+		{D58E9F0E-C913-4238-BC18-2DA79B5AE862}.Release|Win32.ActiveCfg = Release|Win32
+		{D58E9F0E-C913-4238-BC18-2DA79B5AE862}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

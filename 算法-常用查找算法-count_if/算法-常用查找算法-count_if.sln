@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "算法-常用查找算法-count_if", "算法-常用查找算法-count_if\算法-常用查找算法-count_if.vcxproj", "{48E6C4F4-EF90-4785-8A68-D2DA47B71CC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48E6C4F4-EF90-4785-8A68-D2DA47B71CC2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{48E6C4F4-EF90-4785-8A68-D2DA47B71CC2}.Debug|Win32.Build.0 = Debug|Win32
+		{48E6C4F4-EF90-4785-8A68-D2DA47B71CC2}.Release|Win32.ActiveCfg = Release|Win32
+		{48E6C4F4-EF90-4785-8A68-D2DA47B71CC2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
